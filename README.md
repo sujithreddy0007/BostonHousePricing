@@ -21,4 +21,7 @@ A simple end-to-end Machine Learning web application that predicts the price of 
 - HTML/CSS (for the frontend)
 - Render (for deployment)
 
-## 📁 Project Structure
+✍️ Author
+Sujith Reddy
+GitHub: @sujithreddy0007
+Email: sujeethreddy0007@gmail.com
